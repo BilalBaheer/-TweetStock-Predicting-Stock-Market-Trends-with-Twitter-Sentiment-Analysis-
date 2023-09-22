@@ -3,3 +3,4 @@ Developed and implemented a sentiment analysis model using TensorFlow to predict
 
 Run: Python3 tweets.py
 Create a robust solution for stock market prediction using Twitter data, demonstrating proficiency in data-driven coding.
+Employed the Twint API for efficient web scraping of tweets related to specific companies, enhancing data collection and analysis capabilities.
